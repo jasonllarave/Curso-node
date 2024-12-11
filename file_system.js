@@ -1,4 +1,4 @@
-const fs = require('fs');              //modulo de file system
+const fs = require('fs');              //modulo de file system generar archivos txt (escribe archivos)
 
 /*fs.writeFile('data1.txt', 'yousuario', (error) => {  //con esto escribo el nombre yousuario, modulo file escribo data1 y dentro el nombre y verifico y existe un nombre
     if(error){
