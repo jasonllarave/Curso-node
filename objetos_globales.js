@@ -1,4 +1,4 @@
-/*console.log(__filename);
+/*console.log(__filename);         //objetos globales
 console.log(__dirname);
 
 console.count("Node");   //Con esto puedo ver los datos del objeto y tambien puedo construir una tabla  con console.table para ver los datos de esa manera
