@@ -13,7 +13,7 @@ console.log(resultado);
     });
     */
 
-    // este es otro ejemplo mas avanzado
+    // este es 2do ejemplo mas avanzado de promesas
 
     const moduloPromesa = require('./misModulos/promesa.js');
 
