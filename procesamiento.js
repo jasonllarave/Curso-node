@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('fs');     //procesamiento de archivo txt
 
 console.log("inicio");
 /* con esto puedo leer el archivo de datacanal, es procesamiento asincrono*/
