@@ -1,4 +1,4 @@
-/*const fs = require('fs');
+/*const fs = require('fs');         //rutas formato JSON
 
 let data = fs.readFileSync ('./data/personas.json');
     //console.log(data);
